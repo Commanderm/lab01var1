@@ -1,4 +1,4 @@
-package ru.mirea.lab01var1;
+package ru.mirea.pract01var1;
 
 import java.lang.*;
 
