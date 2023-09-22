@@ -1,4 +1,4 @@
-package ru.mirea.pract01var1;
+package ru.mirea.pract02var1;
 
 import java.lang.*;
 // Вывести на экран сумму чисел массива с помощью циклов for, while, do while

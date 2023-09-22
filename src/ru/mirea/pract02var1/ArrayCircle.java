@@ -1,6 +1,4 @@
-package ru.mirea.pract01var1;
-
-import java.lang.*;
+package ru.mirea.pract02var1;
 
 public class ArrayCircle {
     private int [] arguments;
@@ -13,7 +11,7 @@ public class ArrayCircle {
 
     public int printFor() {
         summa = 0;
-        for (int i=0;i<arguments.length; i++)
+        for (int i=0; i<arguments.length; i++)
         {
             summa = summa + arguments[i];
         }
